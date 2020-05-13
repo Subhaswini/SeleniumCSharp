@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SeleniumTestProject/.vs/SeleniumTestProject/v16
+/SeleniumTestProject/bin/Debug/netcoreapp3.1
+/SeleniumTestProject/obj
